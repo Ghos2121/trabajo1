@@ -1,0 +1,394 @@
+.gug{
+
+position: relative;
+		top: 20%;
+		font-size: 300%;
+		color:white;
+		font-family: book antiqua;
+}
+
+div#imagen1 {
+  width: 300px;
+  height: 200px;
+  background-image: url("code.JPG");
+  float: right;
+ 
+}
+
+div#textu {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#imagen1:hover div#textu {
+  opacity:1;
+}
+
+p#ter {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#imagen1:hover p#ter {
+  margin-left: 115px;
+}
+
+p#textu2 {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#imagen1:hover p#textu2 {
+  margin-top: 75px;
+}
+
+
+
+
+div#imagenos {
+  width: 300px;
+  height: 200px;
+  background-image: url("code.JPG");
+ 
+}
+
+div#texti {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#imagenos:hover div#texti {
+  opacity:1;
+}
+
+p#tera {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#imagenos:hover p#tera {
+  margin-left: 115px;
+}
+
+p#textq {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#imagenos:hover p#textq {
+  margin-top: 75px;
+}
+
+
+
+
+div#imagenus {
+  width: 300px;
+  height: 200px;
+  background-image: url("eh.JPG");
+  float: right;
+}
+
+div#textk {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+
+}
+
+div#imagenus:hover div#textk {
+  opacity:1;
+}
+
+p#terñ {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+
+}
+
+div#imagenus:hover p#terñ {
+  margin-left: 115px;
+
+
+}
+
+p#texku {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+
+}
+
+div#imagenus:hover p#texku {
+  margin-top: 75px;
+}
+
+
+
+
+
+div#imagek {
+  width: 300px;
+  height: 200px;
+  background-image: url("eh.JPG");
+  
+
+}
+
+div#carro {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+
+}
+
+div#imagek:hover div#carro {
+  opacity:1;
+}
+
+p#gugu {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+
+}
+
+div#imagek:hover p#gugu {
+  margin-left: 115px;
+
+
+}
+
+p#lol {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+
+}
+
+div#imagek:hover p#lol {
+  margin-top: 75px;
+}
+
+
+
+div#gato {
+  width: 300px;
+  height: 200px;
+  background-image: url("cudu.JPG");
+  float: right;
+  
+ 
+}
+
+div#carrowe {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#gato:hover div#carrowe {
+  opacity:1;
+}
+
+p#gugujh {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#gato:hover p#gugujh {
+  margin-left: 115px;
+}
+
+p#lolis {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#gato:hover p#lolis {
+  margin-top: 75px;
+}
+
+
+
+
+div#halcon {
+  width: 300px;
+  height: 200px;
+  background-image: url("cudu.JPG");
+  
+
+ 
+}
+
+div#dias {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#halcon:hover div#dias {
+  opacity:1;
+}
+
+p#cobra {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#halcon:hover p#cobra {
+  margin-left: 115px;
+}
+
+p#kai {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#halcon:hover p#kai {
+  margin-top: 75px;
+}
+
+
+
+
+div#lucifer {
+  width: 300px;
+  height: 200px;
+  background-image: url("ks.PNG");
+
+ 
+ 
+}
+
+div#amenadiel {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#lucifer:hover div#amenadiel {
+  opacity:1;
+}
+
+p#detective {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#lucifer:hover p#detective {
+  margin-left: 115px;
+}
+
+p#daniel {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#lucifer:hover p#daniel {
+  margin-top: 75px;
+}
+
+
+
+
+div#kuroko {
+  width: 300px;
+  height: 200px;
+  background-image: url("ks.PNG");
+  
+}
+
+div#kagami {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#kuroko:hover div#kagami {
+  opacity:1;
+}
+
+p#hinata {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#kuroko:hover p#hinata {
+  margin-left: 115px;
+}
+
+p#kageyama {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#kuroko:hover p#kageyama {
+  margin-top: 75px;
+}
+
+
+
