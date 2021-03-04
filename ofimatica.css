@@ -1,0 +1,154 @@
+.gug{
+
+position: relative;
+		top: 20%;
+		font-size: 300%;
+		color:white;
+		font-family: book antiqua;
+}
+
+div#imagen1 {
+  width: 300px;
+  height: 200px;
+  background-image: url("textoe.JPG");
+  float: right;
+ 
+}
+
+div#textu {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#imagen1:hover div#textu {
+  opacity:1;
+}
+
+p#ter {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#imagen1:hover p#ter {
+  margin-left: 115px;
+}
+
+p#textu2 {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#imagen1:hover p#textu2 {
+  margin-top: 75px;
+}
+
+
+
+
+div#imagenos {
+  width: 300px;
+  height: 200px;
+  background-image: url("textow.JPG");
+ 
+}
+
+div#texti {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+}
+
+div#imagenos:hover div#texti {
+  opacity:1;
+}
+
+p#tera {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+}
+
+div#imagenos:hover p#tera {
+  margin-left: 115px;
+}
+
+p#textq {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+}
+
+div#imagenos:hover p#textq {
+  margin-top: 75px;
+}
+
+
+
+
+div#imagenus {
+  width: 300px;
+  height: 200px;
+  background-image: url("textop.JPG");
+  float: right;
+}
+
+div#textk {
+  position:absolute;
+  width: 300px;
+  height: 200px;
+  background-color: rgba(31, 31, 31, 10);
+  opacity:0;
+  transition: opacity 1s;
+
+}
+
+div#imagenus:hover div#textk {
+  opacity:1;
+}
+
+p#terñ {
+  position: absolute;
+  font-size: 1.5rem;
+  margin-left: -75px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+
+}
+
+div#imagenus:hover p#terñ {
+  margin-left: 115px;
+
+
+}
+
+p#texku {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+
+}
+
+div#imagenus:hover p#texku {
+  margin-top: 75px;
+}
+
+
+
+
+
